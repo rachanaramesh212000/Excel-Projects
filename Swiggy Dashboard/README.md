@@ -1,8 +1,14 @@
 # 🍽 Swiggy Sales Analytics Dashboard
+---
+![Image](https://github.com/user-attachments/assets/2baffd06-1024-4c1c-8cc7-1aab581f06ca)
+
+---
 
 ## 📌 Overview
 
 The Swiggy Sales Analytics Dashboard provides a comprehensive view of sales performance across multiple states, time periods, food categories, and restaurant contributions. It helps understand customer ordering behavior, peak demand times, and revenue growth trends, supporting strategic decisions for marketing, restaurant partnerships, and regional expansion.
+
+---
 
 ## 📊 Key Metrics
 
@@ -15,6 +21,8 @@ The Swiggy Sales Analytics Dashboard provides a comprehensive view of sales perf
 **Total Orders**	: 197K
 
 **Ratings Count**:	5.59M
+
+---
 
 ## 🔎 Key Insights
 
@@ -32,6 +40,8 @@ The Swiggy Sales Analytics Dashboard provides a comprehensive view of sales perf
 
  - Average rating of 4.34 shows high customer satisfaction and service reliability.
 
+   ---
+
 ## 🛠 Skills Demonstrated
 
  - Data Cleaning & Transformation
@@ -47,6 +57,8 @@ The Swiggy Sales Analytics Dashboard provides a comprehensive view of sales perf
  - Data-Driven Decision Making
 
  - Slicers & Interactive Filtering
+
+   ---
 
 ## 🧰 Tools & Technologies
 
