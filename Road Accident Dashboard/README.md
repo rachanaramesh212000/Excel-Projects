@@ -1,7 +1,13 @@
 # 🚗 Road Accident Dashboard
+---
+![Image](https://github.com/user-attachments/assets/d1dcd8e2-8393-4118-b31a-1eb326c9ca49)
+
+---
 
 ## Overview
 The Road Accident Dashboard provides a detailed analysis of accident-related casualties across different vehicle types, locations, road conditions, and lighting environments. The goal is to identify high-risk areas and patterns that can support transportation safety improvements, policy planning, and awareness initiatives. The dashboard compares yearly trends and provides actionable insights to reduce accident severity and frequency.
+
+---
 
 ## 🧩 Key Metrics
   
@@ -15,6 +21,8 @@ The Road Accident Dashboard provides a detailed analysis of accident-related cas
 
   **Casualties by Car** :	333,485 (79.8%)
 
+  ---
+
 ## 🔎 Key Insights
 
 - Car accidents contribute the highest casualties, accounting for 333K cases, indicating the need for vehicle safety regulation.
@@ -24,6 +32,8 @@ The Road Accident Dashboard provides a detailed analysis of accident-related cas
 - Wet surface roads are highly dangerous, causing 115.3K casualties, compared to dry surface at 279.4K — road condition awareness and drainage improvements are required.
 - Monthly trend shows casualties increase from March to November, with a drop in December — seasonal behavior trend.
 
+  ---
+
 ## 🧠 Skills Demonstrated
 
   - Data Cleaning & Processing in Excel
@@ -32,6 +42,8 @@ The Road Accident Dashboard provides a detailed analysis of accident-related cas
   - Trend Analysis, Comparative Analysis & Data Visualization
   - Conditional Formatting & Chart Formatting
   - Data Storytelling and Analytical Thinking
+
+    ---
 
 ## 🧰 Tools & Technologies
 
